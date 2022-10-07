@@ -10,3 +10,7 @@ Jeu de carte à 2 joueurs. Le principe est simple, on distribue tout les cartes 
 - La Classe Joueur contient : un	constructeur	pour	créer	un joueur, Attributs	: Paquet (Arraylist) et un compteur de point, Méthodes : TirerCarte, AjouteCarte, PossedeCarte, GetNombreCarte, GagnerPoint, toString.
 
 - La Classe Bataille contient : un main, Méthodes : Distribuer, Jouer
+
+# Petit soucis
+
+Comme il y'a souvent "Bataille", le jeu est très long et donc pas sur d'obtenir un résultat dans la seconde.
