@@ -11,11 +11,11 @@ Jeu de carte à 2 joueurs. Le principe est simple, on distribue tout les cartes 
 
 - La Classe Bataille contient : un main, Méthodes : Distribuer, Jouer
 
-#Compilation
+# Compilation
 
 `javac Bataille.java`
 
-#Lancement
+# Lancement
 
 `java Bataille`
 
